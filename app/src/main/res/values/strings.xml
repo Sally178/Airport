@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Airport</string>
+    <string name="tab_text_1">航班出港情况</string>
+    <string name="tab_text_2">航班进港情况</string>
+    <string name="tab_text_3">实时航班查询</string>
+    <string name="flight">航班</string>
+    <string name="origin">始发地</string>
+    <string name="destination">目的地</string>
+    <string name="pass">经停</string>
+    <string name="planned">计划起飞</string>
+    <string name="terminal">航站楼</string>
+    <string name="status">状态</string>
+    <string name="inform">请检查您的网络连接！</string>
+    <string name="inform2">没有找到结果</string>
+    <string name="inform3">您没有收藏任何数据</string>
+    <string name="button">查询</string>
+    <string name="yes">是</string>
+</resources>
